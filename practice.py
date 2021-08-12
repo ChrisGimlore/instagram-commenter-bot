@@ -4,8 +4,8 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"
 from time import sleep 
 
 
-username = "chrisabyss23"
-password = "Chrisabyss24!"
+username = ""
+password = ""
 hashtags = ["hiphop", "streetwear", "berlinstreet", "deutschrap", "cloudrap"]
 comments = ["yo this is sick", "fye", 'nicee']
 
